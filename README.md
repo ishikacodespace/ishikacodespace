@@ -1,68 +1,55 @@
 <h1 align="center">Hi 👋, I'm Ishika Agarwal</h1>
-<h3 align="center">A passionate developer exploring the world of software & innovation</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/7gHINnduD1oAAAAd/cute-cat-typing.gif" alt="Cute Typing Cat" width="200" />
+  <img src="https://media.tenor.com/E3v4j9VZuSwAAAAj/cute-cat-cat-typing.gif" alt="Typing Cat" width="300"/>
 </p>
 
----
+# 💫 About Me:
+🎓 I'm a Computer Science student passionate about Full Stack Development and AI Projects<br>
+🔭 Currently working on: Conversational AI and other exciting projects<br>
+🌱 Learning: Full Stack Development, focusing on React and APIs<br>
+💼 Open to internships, freelance projects, and collaboration opportunities<br>
 
-### 👩‍💻 About Me
 
-- 🎓 I'm a Computer Science student passionate about **Full Stack Development** and **AI Projects** 
-- 💡 I love building projects that blend **functionality with good user experience**  
-- 🔭 Currently working on: `Conversational AI` and other exciting projects  
-- 🌱 Learning: **Full Stack Development**, focusing on `React` and APIs  
-- 💬 I'm curious, growth-oriented, and enjoy learning by building  
-- 💼 Open to internships, freelance projects, and collaboration opportunities  
 
----
 
-### 🛠️ Tech Stack
 
-**Languages:**  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br/>
 
-**Frameworks & Libraries:**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <br/>
 
-**Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<br/>
 
-### 📈 GitHub Stats
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikacodespace&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikacodespace&theme=default" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌟 GitHub Contributions
 
-<p align="center">
-  <img 
-    src="https://github-readme-contribution-stats.vercel.app/api?username=ishikacodespace&theme=default" 
-    alt="GitHub Contributions Calendar" 
-    width="650" 
-    style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
-  />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishikacodespace&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ishikacodespace&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikacodespace&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishikaagarwal04/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ishikacodespace&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+things+with+code;Always+learning+something+new;Embracing+tech+with+curiosity!&center=true&width=500&height=50" alt="Typing SVG" />
+</h3>
 
-<p align="center"><i>"Turning ideas into impact through clean, scalable code."</i></p>
+
+
+
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
