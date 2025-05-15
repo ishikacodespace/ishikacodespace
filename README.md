@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishika Agarwal</h1>
 <h3 align="center">A passionate developer exploring the world of software & innovation</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishikacodespace&label=Profile%20views&color=0e75b6&style=flat" alt="ishikacodespace" />
-</p>
 
 ---
 
