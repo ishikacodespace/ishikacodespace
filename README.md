@@ -14,8 +14,6 @@
 - 🌱 I’m currently learning: **JavaScript**, **React**, **Backend Development**
 - 💡 Goals: To build impactful, user-first web apps and contribute to open-source
 - ✍️ I write code that's clean, scalable, and user-focused
-- 📫 How to reach me: `agarwalishika04@gmail.com`
-
 ---
 
 ### 🚀 Tech Stack
