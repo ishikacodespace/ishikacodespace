@@ -6,7 +6,6 @@
 
 #  About Me:
 🎓 I'm a Computer Science student passionate about Full Stack Development and AI Projects<br>
-🔭 Currently working on: Conversational AI and other exciting projects<br>
 🌱 Learning: Full Stack Development, focusing on React and APIs<br>
 💼 Open to internships, freelance projects, and collaboration opportunities<br>
 
